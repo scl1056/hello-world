@@ -1,4 +1,4 @@
 # hello-world
 The Hello World project is a time-honored tradition in computer programming.
 
-These are a few notes added by myself to try out github.
+This is now December 2025 and I'm editing these notes that were added by myself to try out github.
